@@ -1,0 +1,5 @@
+{
+  "name": "SDG Memory Game",
+  "description": "A memory matching game based on the UN's 17 Sustainable Development Goals (SDGs). Flip the cards to find matching pairs of goals. The game board is randomized each time for a new challenge.",
+  "requestFramePermissions": []
+}
